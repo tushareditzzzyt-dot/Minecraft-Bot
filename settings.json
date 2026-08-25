@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "SmritiKaServer.aternos.me",
-    "port": 29050,
+    "port":29050,
     "version": "1.20.1",
     "try-creative": false
   },
