@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SmritiKaServer.aternos.me",
-    "port":29050,
+    "ip": "FriendsSMP-1nGD.aternos.me",
+    "port":27580,
     "version": "1.20.1",
     "try-creative": false
   },
